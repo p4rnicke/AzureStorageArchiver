@@ -3,3 +3,6 @@
 ################################################################################
 
 /AzureStorageArchiver/bin/Debug
+/AzureStorageArchiver/obj/Debug
+/.vs/AzureStorageArchiver/v15
+/packages
